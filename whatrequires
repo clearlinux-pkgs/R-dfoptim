@@ -1,12 +1,9 @@
 # This file contains recursive sources that require this package
 R-PKI
 R-Rmpfr
-R-bayesplot
 R-brms
 R-broom
 R-caret
-R-ggjoy
-R-ggridges
 R-gmp
 R-modelr
 R-recipes
