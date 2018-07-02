@@ -4,7 +4,7 @@
 #
 Name     : R-dfoptim
 Version  : 2018.2.1
-Release  : 11
+Release  : 12
 URL      : https://cran.r-project.org/src/contrib/dfoptim_2018.2-1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/dfoptim_2018.2-1.tar.gz
 Summary  : Derivative-Free Optimization
