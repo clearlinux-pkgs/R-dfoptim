@@ -4,7 +4,7 @@
 #
 Name     : R-dfoptim
 Version  : 2020.10.1
-Release  : 45
+Release  : 46
 URL      : https://cran.r-project.org/src/contrib/dfoptim_2020.10-1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/dfoptim_2020.10-1.tar.gz
 Summary  : Derivative-Free Optimization
