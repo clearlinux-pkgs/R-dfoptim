@@ -5,7 +5,7 @@
 #
 Name     : R-dfoptim
 Version  : 2023.1.0
-Release  : 51
+Release  : 52
 URL      : https://cran.r-project.org/src/contrib/dfoptim_2023.1.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/dfoptim_2023.1.0.tar.gz
 Summary  : Derivative-Free Optimization
